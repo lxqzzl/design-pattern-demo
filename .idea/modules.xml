@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern-AbstractFactoryModel.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern-AbstractFactoryModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPatternDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPatternDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern-AbstractFactoryModel/DesignPatternDemo.DesignPattern-AbstractFactoryModel.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern-AbstractFactoryModel/DesignPatternDemo.DesignPattern-AbstractFactoryModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern-AbstractFactoryModel/DesignPatternDemo.DesignPattern-AbstractFactoryModel.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern-AbstractFactoryModel/DesignPatternDemo.DesignPattern-AbstractFactoryModel.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern-AbstractFactoryModel/DesignPatternDemo.DesignPattern-AbstractFactoryModel.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern-AbstractFactoryModel/DesignPatternDemo.DesignPattern-AbstractFactoryModel.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern-FactoryModel/DesignPatternDemo.DesignPattern-FactoryModel.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern-FactoryModel/DesignPatternDemo.DesignPattern-FactoryModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern-FactoryModel/DesignPatternDemo.DesignPattern-FactoryModel.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern-FactoryModel/DesignPatternDemo.DesignPattern-FactoryModel.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern-FactoryModel/DesignPatternDemo.DesignPattern-FactoryModel.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern-FactoryModel/DesignPatternDemo.DesignPattern-FactoryModel.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern-ObserverModel/DesignPatternDemo.DesignPattern-ObserverModel.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern-ObserverModel/DesignPatternDemo.DesignPattern-ObserverModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern-ObserverModel/DesignPatternDemo.DesignPattern-ObserverModel.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern-ObserverModel/DesignPatternDemo.DesignPattern-ObserverModel.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern-ObserverModel/DesignPatternDemo.DesignPattern-ObserverModel.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern-ObserverModel/DesignPatternDemo.DesignPattern-ObserverModel.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPatternDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPatternDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPatternDemo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPatternDemo.test.iml" />
+    </modules>
+  </component>
+</project>

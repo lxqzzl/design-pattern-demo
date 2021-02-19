@@ -4,6 +4,10 @@ import com.design.demo.observer.bellenventdemo.observer.impl.StuEventListener;
 import com.design.demo.observer.bellenventdemo.observer.impl.TeachEventListener;
 import com.design.demo.observer.bellenventdemo.subject.BellEventSource;
 
+/**
+ * 打铃demo启动类
+ */
+
 public class BellEventDemo {
     public static void main(String[] args) {
         // 打铃 (事件源)
