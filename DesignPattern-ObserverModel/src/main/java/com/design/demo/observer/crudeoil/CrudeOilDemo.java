@@ -6,6 +6,10 @@ import com.design.demo.observer.crudeoil.subject.OilFutures;
 
 import java.util.Observer;
 
+/**
+ * 油价变化demo启动类
+ */
+
 public class CrudeOilDemo {
     public static void main(String[] args) {
         OilFutures oil = new OilFutures();
